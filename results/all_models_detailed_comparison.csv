@@ -1,0 +1,7 @@
+Rank,Model,Category,Test_R2_fmt,Test_RMSE_fmt,Test_MAE_fmt
+1,Paper 1: RailEstate Spatial (XGBoost),Research Paper 1,0.9279,"$23,515.33","$14,810.45"
+2,Paper 2: Global EBM,Research Paper 2,0.9060,"$26,851.62","$16,387.25"
+3,Random Forest,Classical,0.8910,"$28,909.17","$17,548.39"
+4,Gradient Boosting,Classical,0.8840,"$29,830.66","$17,352.08"
+5,Linear Regression (Ridge),Classical,0.8774,"$30,668.13","$19,134.86"
+6,Paper 2: Cluster-Specific EBM,Research Paper 2,0.8702,"$31,557.67","$18,466.19"

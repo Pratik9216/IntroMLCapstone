@@ -1,0 +1,2 @@
+Model,n_estimators,learning_rate,max_depth,min_samples_split,min_samples_leaf,subsample,max_features,Train_MSE,Train_MAE,Train_R2,Test_MSE,Test_MAE,Test_R2
+Gradient Boosting,300,0.05,7,10,2,1.0,log2,36270236.10897668,4277.036644991951,0.9939190326513141,889868044.2750751,17352.078155170035,0.8839856323918447

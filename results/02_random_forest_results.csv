@@ -1,0 +1,2 @@
+Model,n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,Train_MSE,Train_MAE,Train_R2,Test_MSE,Test_MAE,Test_R2
+Random Forest,300,20,2,2,,176092440.22177035,7251.997862564521,0.9704768290969576,835740198.1193367,17548.38643021846,0.8910424178131766

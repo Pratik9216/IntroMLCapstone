@@ -1,0 +1,14 @@
+# Ignore large model files (exceed GitHub 100MB limit)
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
